@@ -1,0 +1,20 @@
+.text-box {
+	height: 200px;
+}
+
+.singlePostImg {
+	border-radius: 20px;
+	padding: 5px;
+}
+
+.iconSize15 {
+	font-size: 1.5rem;
+}
+
+.iconSize3 {
+	font-size: 3.0rem;
+}
+
+.iconColor {
+	color: #003333;
+}

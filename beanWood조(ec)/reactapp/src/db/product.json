@@ -1,0 +1,842 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"productName": "2021 Women handbag",
+			"categoryId": 2,
+			"price": 550,
+			"isNew": true,
+			"sale": 10,
+			"sizeId": [
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"colorId": [
+				1,
+				2,
+				3,
+				4
+			],
+			"star": 4,
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivedLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+			"productImage": [
+				{
+					"id": 1,
+					"imageUrl": "0101.png"
+				},
+				{
+					"id": 2,
+					"imageUrl": "0102.jpg"
+				},
+				{
+					"id": 3,
+					"imageUrl": "0103.jpg"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"productName": "Men's Outdoor Jacket",
+			"categoryId": 1,
+			"price": 880,
+			"sale": 15,
+			"sizeId": [
+				1,
+				2,
+				3,
+				4
+			],
+			"colorId": [
+				2,
+				3,
+				4
+			],
+			"star": 3,
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivedLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+			"productImage": [
+				{
+					"id": 1,
+					"imageUrl": "0201.jpg"
+				},
+				{
+					"id": 2,
+					"imageUrl": "0202.jpg"
+				},
+				{
+					"id": 3,
+					"imageUrl": "0203.jpg"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"productName": "Automatic Tourbillon",
+			"categoryId": 4,
+			"price": 84500,
+			"sale": 0,
+			"sizeId": [
+				1,
+				2,
+				3,
+				4
+			],
+			"colorId": [
+				2,
+				3,
+				4
+			],
+			"star": 5,
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivedLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+			"productImage": [
+				{
+					"id": 1,
+					"imageUrl": "0301.webp"
+				},
+				{
+					"id": 2,
+					"imageUrl": "0302.webp"
+				},
+				{
+					"id": 3,
+					"imageUrl": "0303.jpg"
+				}
+			]
+		},
+		{
+			"id": 4,
+			"productName": "Coat",
+			"categoryId": 1,
+			"price": 510,
+			"sale": 20,
+			"sizeId": [
+				1,
+				2,
+				3,
+				4
+			],
+			"colorId": [
+				1,
+				2,
+				3,
+				4
+			],
+			"star": 5,
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivedLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+			"productImage": [
+				{
+					"id": 1,
+					"imageUrl": "0401.jpg"
+				},
+				{
+					"id": 2,
+					"imageUrl": "0402.jpg"
+				},
+				{
+					"id": 3,
+					"imageUrl": "0403.jpg"
+				}
+			]
+		},
+		{
+			"id": 5,
+			"productName": "Pants",
+			"categoryId": 1,
+			"price": 300,
+			"sale": 10,
+			"sizeId": [
+				1,
+				2,
+				3,
+				4
+			],
+			"colorId": [
+				1,
+				2,
+				3,
+				4
+			],
+			"star": 3,
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivedLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+			"productImage": [
+				{
+					"id": 1,
+					"imageUrl": "0501.jpg"
+				},
+				{
+					"id": 2,
+					"imageUrl": "0502.jpg"
+				},
+				{
+					"id": 3,
+					"imageUrl": "0503.jpg"
+				}
+			]
+		},
+		{
+			"id": 6,
+			"productName": "Shoes",
+			"categoryId": 4,
+			"price": 320,
+			"sale": 0,
+			"sizeId": [
+				1,
+				2,
+				3,
+				4
+			],
+			"colorId": [
+				1,
+				2,
+				3,
+				4
+			],
+			"star": 4,
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivedLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+			"productImage": [
+				{
+					"id": 1,
+					"imageUrl": "0601.jpg"
+				},
+				{
+					"id": 2,
+					"imageUrl": "0602.jpg"
+				},
+				{
+					"id": 3,
+					"imageUrl": "0603.jpg"
+				}
+			]
+		},
+		{
+			"id": 7,
+			"productName": "Watch",
+			"categoryId": 4,
+			"price": 8030,
+			"sale": 0,
+			"sizeId": [
+				1,
+				2,
+				3
+			],
+			"colorId": [
+				1,
+				2
+			],
+			"star": 5,
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivedLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+			"productImage": [
+				{
+					"id": 1,
+					"imageUrl": "0701.webp"
+				},
+				{
+					"id": 2,
+					"imageUrl": "0702.webp"
+				},
+				{
+					"id": 3,
+					"imageUrl": "0703.webp"
+				}
+			]
+		},
+		{
+			"id": 8,
+			"productName": "Muffler",
+			"categoryId": 3,
+			"price": 210,
+			"sale": 10,
+			"sizeId": [
+				1,
+				2,
+				3,
+				4
+			],
+			"colorId": [
+				1,
+				2,
+				3,
+				4
+			],
+			"star": 3,
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivedLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+			"productImage": [
+				{
+					"id": 1,
+					"imageUrl": "0801.png"
+				},
+				{
+					"id": 2,
+					"imageUrl": "0802.png"
+				},
+				{
+					"id": 3,
+					"imageUrl": "0803.jpg"
+				}
+			]
+		},
+		{
+			"id": 9,
+			"productName": "2021 Coat",
+			"categoryId": 2,
+			"price": 850,
+			"isNew": true,
+			"sale": 10,
+			"sizeId": [
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"colorId": [
+				1,
+				2,
+				3,
+				4
+			],
+			"star": 4,
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivedLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+			"productImage": [
+				{
+					"id": 1,
+					"imageUrl": "0901.jpg"
+				},
+				{
+					"id": 2,
+					"imageUrl": "0902.jpg"
+				},
+				{
+					"id": 3,
+					"imageUrl": "0903.jpg"
+				}
+			]
+		},
+		{
+			"id": 10,
+			"productName": "Sneakers",
+			"categoryId": 4,
+			"price": 1050,
+			"isNew": true,
+			"sale": 10,
+			"sizeId": [
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"colorId": [
+				1,
+				2,
+				3,
+				4
+			],
+			"star": 4,
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivedLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+			"productImage": [
+				{
+					"id": 1,
+					"imageUrl": "1001.jpg"
+				},
+				{
+					"id": 2,
+					"imageUrl": "1002.jpg"
+				},
+				{
+					"id": 3,
+					"imageUrl": "1003.jpg"
+				}
+			]
+		},
+		{
+			"id": 11,
+			"productName": "tinobag",
+			"categoryId": 4,
+			"price": 1050,
+			"isNew": true,
+			"sale": 10,
+			"sizeId": [
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"colorId": [
+				1,
+				2,
+				3,
+				4
+			],
+			"star": 4,
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivedLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+			"productImage": [
+				{
+					"id": 1,
+					"imageUrl": "1101.jpg"
+				},
+				{
+					"id": 2,
+					"imageUrl": "1102.jpg"
+				},
+				{
+					"id": 3,
+					"imageUrl": "1103.jpg"
+				}
+			]
+		},
+		{
+			"id": 12,
+			"productName": "woman's dress",
+			"categoryId": 2,
+			"price": 1050,
+			"isNew": true,
+			"sale": 10,
+			"sizeId": [
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"colorId": [
+				1,
+				2,
+				3,
+				4
+			],
+			"star": 4,
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivedLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+			"productImage": [
+				{
+					"id": 1,
+					"imageUrl": "1201.jpg"
+				},
+				{
+					"id": 2,
+					"imageUrl": "1202.jpg"
+				},
+				{
+					"id": 3,
+					"imageUrl": "1203.jpg"
+				}
+			]
+		},
+		{
+			"id": 13,
+			"productName": "man's outer",
+			"categoryId": 2,
+			"price": 1050,
+			"isNew": true,
+			"sale": 10,
+			"sizeId": [
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"colorId": [
+				1,
+				2,
+				3,
+				4
+			],
+			"star": 4,
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivedLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+			"productImage": [
+				{
+					"id": 1,
+					"imageUrl": "1301.jpg"
+				},
+				{
+					"id": 2,
+					"imageUrl": "1302.jpg"
+				},
+				{
+					"id": 3,
+					"imageUrl": "1303.jpg"
+				}
+			]
+		},
+		{
+			"id": 14,
+			"productName": "kids polo",
+			"categoryId": 3,
+			"price": 1050,
+			"isNew": true,
+			"sale": 10,
+			"sizeId": [
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"colorId": [
+				1,
+				2,
+				3,
+				4
+			],
+			"star": 4,
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivedLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+			"productImage": [
+				{
+					"id": 1,
+					"imageUrl": "1401.jpg"
+				},
+				{
+					"id": 2,
+					"imageUrl": "1402.jpg"
+				},
+				{
+					"id": 3,
+					"imageUrl": "1403.jpg"
+				}
+			]
+		},
+		{
+			"id": 15,
+			"productName": "woman's outer black",
+			"categoryId": 2,
+			"price": 1050,
+			"isNew": true,
+			"sale": 10,
+			"sizeId": [
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"colorId": [
+				1,
+				2,
+				3,
+				4
+			],
+			"star": 4,
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivedLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+			"productImage": [
+				{
+					"id": 1,
+					"imageUrl": "1501.jpg"
+				},
+				{
+					"id": 2,
+					"imageUrl": "1502.jpg"
+				},
+				{
+					"id": 3,
+					"imageUrl": "1503.jpg"
+				}
+			]
+		},
+		{
+			"id": 16,
+			"productName": "woman's winter outer",
+			"categoryId": 2,
+			"price": 1050,
+			"isNew": true,
+			"sale": 10,
+			"sizeId": [
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"colorId": [
+				1,
+				2,
+				3,
+				4
+			],
+			"star": 4,
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivedLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+			"productImage": [
+				{
+					"id": 1,
+					"imageUrl": "1601.jpg"
+				},
+				{
+					"id": 2,
+					"imageUrl": "1602.jpg"
+				},
+				{
+					"id": 3,
+					"imageUrl": "1603.jpg"
+				}
+			]
+		},
+		{
+			"id": 17,
+			"productName": "man's tombrown",
+			"categoryId": 1,
+			"price": 1050,
+			"isNew": true,
+			"sale": 10,
+			"sizeId": [
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"colorId": [
+				1,
+				2,
+				3,
+				4
+			],
+			"star": 4,
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivedLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+			"productImage": [
+				{
+					"id": 1,
+					"imageUrl": "1701.jpg"
+				},
+				{
+					"id": 2,
+					"imageUrl": "1702.jpg"
+				},
+				{
+					"id": 3,
+					"imageUrl": "1703.jpg"
+				}
+			]
+		},
+		{
+			"id": 18,
+			"productName": "man's shirt",
+			"categoryId": 1,
+			"price": 1050,
+			"isNew": true,
+			"sale": 10,
+			"sizeId": [
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"colorId": [
+				1,
+				2,
+				3,
+				4
+			],
+			"star": 4,
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivedLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+			"productImage": [
+				{
+					"id": 1,
+					"imageUrl": "1801.jpg"
+				},
+				{
+					"id": 2,
+					"imageUrl": "1802.jpg"
+				},
+				{
+					"id": 3,
+					"imageUrl": "1803.jpg"
+				}
+			]
+		},
+		{
+			"id": 19,
+			"productName": "kids dress f/w",
+			"categoryId": 3,
+			"price": 1050,
+			"isNew": true,
+			"sale": 10,
+			"sizeId": [
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"colorId": [
+				1,
+				2,
+				3,
+				4
+			],
+			"star": 4,
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivedLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+			"productImage": [
+				{
+					"id": 1,
+					"imageUrl": "1901.jpg"
+				},
+				{
+					"id": 2,
+					"imageUrl": "1902.jpg"
+				},
+				{
+					"id": 3,
+					"imageUrl": "1903.jpg"
+				}
+			]
+		},
+		{
+			"id": 20,
+			"productName": "kids summer dress",
+			"categoryId": 3,
+			"price": 1050,
+			"isNew": true,
+			"sale": 10,
+			"sizeId": [
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"colorId": [
+				1,
+				2,
+				3,
+				4
+			],
+			"star": 4,
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivedLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+			"productImage": [
+				{
+					"id": 1,
+					"imageUrl": "2001.jpg"
+				},
+				{
+					"id": 2,
+					"imageUrl": "2002.jpg"
+				},
+				{
+					"id": 3,
+					"imageUrl": "2003.jpg"
+				}
+			]
+		},
+		{
+			"id": 21,
+			"productName": "Gucci bag",
+			"categoryId": 4,
+			"price": 1050,
+			"isNew": true,
+			"sale": 10,
+			"sizeId": [
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"colorId": [
+				1,
+				2,
+				3,
+				4
+			],
+			"star": 4,
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivedLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+			"productImage": [
+				{
+					"id": 1,
+					"imageUrl": "2101.jpg"
+				},
+				{
+					"id": 2,
+					"imageUrl": "2102.jpg"
+				},
+				{
+					"id": 3,
+					"imageUrl": "2103.jpg"
+				}
+			]
+		},
+		{
+			"id": 22,
+			"productName": "goya bag",
+			"categoryId": 4,
+			"price": 1050,
+			"isNew": true,
+			"sale": 10,
+			"sizeId": [
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"colorId": [
+				1,
+				2,
+				3,
+				4
+			],
+			"star": 4,
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivedLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+			"productImage": [
+				{
+					"id": 1,
+					"imageUrl": "2201.jpg"
+				},
+				{
+					"id": 2,
+					"imageUrl": "2202.jpg"
+				},
+				{
+					"id": 3,
+					"imageUrl": "2203.jpg"
+				}
+			]
+		}
+	],
+	"shippingItems": [
+		{
+			"id": 1,
+			"url": "assets/images/icons/shipping-icon-1.svg",
+			"title": "Fast Delivary",
+			"text": "There are many variations of passages of Lorem Ipsum available."
+		},
+		{
+			"id": 2,
+			"url": "assets/images/icons/shipping-icon-2.svg",
+			"title": "100% Refund",
+			"text": "There are many variations of passages of Lorem Ipsum available."
+		},
+		{
+			"id": 3,
+			"url": "assets/images/icons/shipping-icon-3.svg",
+			"title": "Premium Quality",
+			"text": "There are many variations of passages of Lorem Ipsum available."
+		}
+	],
+	"bannerCard": [
+		{
+			"id": 1,
+			"url": "banner-card-style-1.jpg",
+			"tag": "Up to 30% Off",
+			"title": "Best Fashion",
+			"text": "Lorem Ipsum is simply."
+		},
+		{
+			"id": 2,
+			"url": "banner-card-style-2.jpg",
+			"tag": "30% Off",
+			"title": "Premium Shoe",
+			"text": "Lorem Ipsum is simply."
+		},
+		{
+			"id": 3,
+			"url": "banner-card-style-3.jpg",
+			"tag": "10% Off",
+			"title": "Luxury Glass",
+			"text": "Lorem Ipsum is simply."
+		}
+	]
+}

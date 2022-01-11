@@ -1,0 +1,368 @@
+{
+  "coupon": [
+    {
+      "id": 1,
+      "code": "111222"
+    },
+    {
+      "id": 2,
+      "code": "222222"
+    },
+    {
+      "id": 3,
+      "code": "333333"
+    }
+  ],
+  "brandList": [
+    {
+      "id": 1,
+      "name": "BALLY",
+      "image": "bally.jpg"
+    },
+    {
+      "id": 2,
+      "name": "CHANEL",
+      "image": "chanel.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Cartier",
+      "image": "cartier.jpg"
+    },
+    {
+      "id": 4,
+      "name": "GIORGIO ARMANI",
+      "image": "armani.jpg"
+    },
+    {
+      "id": 5,
+      "name": "HERMES",
+      "image": 	
+    },
+    {
+      "id": 6,
+      "name": "OFF-WHITE",
+      "image": "offwhite.jpg"
+    }
+  ],
+  "sliderList": [
+    {
+      "id": 1,
+      "productId": 1,
+      "eventName": "ChirstMas Special Sale",
+      "img": "hero-slider-style-1-img-1.png"
+    },
+    {
+      "id": 2,
+      "productId": 2,
+      "eventName": "Black Friday 2021",
+      "img": "hero-slider-style-1-img-2.png"
+    },
+    {
+      "id": 3,
+      "productId": 3,
+      "eventName": "Best of the Best",
+      "img": "hero-slider-style-2-img-2.webp"
+    }
+  ],
+  "wishLists": [
+    {
+      "productId": 4,
+      "quantity": 1,
+      "color": 3,
+      "size": "M",
+      "itemTotal": 510,
+      "itemImg": "0401.jpg",
+      "id": 1
+    },
+    {
+      "productId": 7,
+      "quantity": 1,
+      "color": 2,
+      "size": "S",
+      "itemTotal": 8030,
+      "itemImg": "0701.webp",
+      "id": 2
+    },
+    {
+      "productId": 9,
+      "quantity": 1,
+      "price": 850,
+      "color": 1,
+      "size": "S",
+      "itemTotal": 850,
+      "itemImg": "0901.jpg",
+      "id": 3
+    }
+  ],
+  "cartLists": [
+    {
+      "productId": 1,
+      "quantity": 4,
+      "id": 1,
+      "size": "M",
+      "color": 1,
+      "itemTotal": 2200,
+      "itemImg": "0101.png"
+    },
+    {
+      "productId": 3,
+      "quantity": 1,
+      "color": 3,
+      "size": "M",
+      "itemTotal": 84500,
+      "id": 3,
+      "itemImg": "0301.webp"
+    },
+    {
+      "productId": 4,
+      "quantity": 2,
+      "color": 2,
+      "size": "M",
+      "itemTotal": 1020,
+      "id": 4,
+      "itemImg": "0401.jpg"
+    },
+    {
+      "productId": 6,
+      "quantity": 2,
+      "color": 3,
+      "size": "S",
+      "itemTotal": 640,
+      "itemImg": "0601.jpg",
+      "id": 5
+    },
+    {
+      "productId": 2,
+      "quantity": 1,
+      "color": 1,
+      "size": "S",
+      "itemTotal": null,
+      "itemImg": "0701.webp",
+      "id": 6
+    },
+    {
+      "productId": 1,
+      "quantity": 3,
+      "color": 4,
+      "size": "L",
+      "itemTotal": 1650,
+      "itemImg": "0101.png",
+      "id": 7
+    },
+    {
+      "productId": 1,
+      "quantity": 1,
+      "color": 2,
+      "size": "S",
+      "itemTotal": 550,
+      "itemImg": "0101.png",
+      "id": 8
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Men",
+      "icon": "product-tab-icon-2.svg"
+    },
+    {
+      "id": 2,
+      "name": "Women",
+      "icon": "product-tab-icon-3.svg"
+    },
+    {
+      "id": 3,
+      "name": "Kid",
+      "icon": "product-tab-icon-5.svg"
+    },
+    {
+      "id": 4,
+      "name": "Others",
+      "icon": "product-tab-icon-4.svg"
+    }
+  ],
+  "sizes": [
+    {
+      "id": 1,
+      "name": "S"
+    },
+    {
+      "id": 2,
+      "name": "M"
+    },
+    {
+      "id": 3,
+      "name": "L"
+    },
+    {
+      "id": 4,
+      "name": "XL"
+    },
+    {
+      "id": 5,
+      "name": "XXL"
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "name": "Red"
+    },
+    {
+      "id": 2,
+      "name": "Green"
+    },
+    {
+      "id": 3,
+      "name": "Blue"
+    },
+    {
+      "id": 4,
+      "name": "Black"
+    }
+  ],
+  "productList": [
+    {
+      "id": 1,
+      "productId": 1,
+      "category": 2,
+      "productIsShow": true
+    },
+    {
+      "id": 2,
+      "productId": 2,
+      "category": 3,
+      "productIsShow": true
+    },
+    {
+      "id": 3,
+      "productId": 3,
+      "category": 1,
+      "productIsShow": true
+    },
+    {
+      "id": 4,
+      "productId": 4,
+      "category": 1,
+      "productIsShow": true,
+      "exclusiveIsShow": true
+    },
+    {
+      "id": 5,
+      "productId": 5,
+      "category": 1,
+      "productIsShow": true
+    },
+    {
+      "id": 6,
+      "productId": 6,
+      "category": 4,
+      "productIsShow": true,
+      "exclusiveIsShow": true
+    },
+    {
+      "id": 7,
+      "productId": 7,
+      "category": 4,
+      "productIsShow": true,
+      "exclusiveIsShow": true
+    },
+    {
+      "id": 8,
+      "productId": 8,
+      "category": 3,
+      "productIsShow": true,
+      "exclusiveIsShow": true
+    },
+    {
+      "id": 9,
+      "productId": 9,
+      "category": 2,
+      "productIsShow": true,
+      "exclusiveIsShow": true
+    },
+    {
+      "id": 10,
+      "productId": 10,
+      "category": 4,
+      "productIsShow": true,
+      "exclusiveIsShow": true
+    },
+    {
+      "id": 11,
+      "productId": 11,
+      "category": 4,
+      "productIsShow": true
+    },
+    {
+      "id": 12,
+      "productId": 12,
+      "category": 1,
+      "productIsShow": true
+    },
+    {
+      "id": 13,
+      "productId": 13,
+      "category": 2,
+      "productIsShow": true
+    },
+    {
+      "id": 14,
+      "productId": 14,
+      "category": 3,
+      "productIsShow": true,
+      "exclusiveIsShow": true
+    },
+    {
+      "id": 15,
+      "productId": 15,
+      "category": 1,
+      "productIsShow": true
+    },
+    {
+      "id": 16,
+      "productId": 16,
+      "category": 1,
+      "productIsShow": true,
+      "exclusiveIsShow": true
+    },
+    {
+      "id": 17,
+      "productId": 17,
+      "category": 2,
+      "productIsShow": true,
+      "exclusiveIsShow": true
+    },
+    {
+      "id": 18,
+      "productId": 18,
+      "category": 2,
+      "productIsShow": true
+    },
+    {
+      "id": 19,
+      "productId": 19,
+      "category": 3,
+      "productIsShow": true
+    },
+    {
+      "id": 20,
+      "productId": 20,
+      "category": 3,
+      "productIsShow": true
+    },
+    {
+      "id": 21,
+      "productId": 21,
+      "category": 4,
+      "productIsShow": true
+    },
+    {
+      "id": 22,
+      "productId": 22,
+      "category": 4,
+      "productIsShow": true
+    }
+  ]
+}
